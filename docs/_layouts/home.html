@@ -9,26 +9,29 @@ layout: default
 
     {{ content }}
 
-    <!--<p class="dash-separator">------------------------------------------------------------------------------------------------------------------------</p>-->
-
     {%- if site.posts.size > 0 -%}
+    	<ul>
         {%- for post in site.posts -%}
-			{%- if post.featured -%}
-				<div class="post-list-preview">
-					<h2 class="post-list-heading">
-						<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-						({{ post.date | date: "%Y" }})
-					</h2>
-					{%- if site.show_excerpts -%}
-						<a class="post-excerpt" href="{{ post.url | relative_url }}">
-							{{ post.excerpt | strip_newlines }}
-						</a>
-					{%- endif -%}
-					<br/>
-				</div>
-			{%- endif -%}
+			{%- if post.categories contains 'classes' -%}
+			<li>
+				<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+				({{ post.date | date: "%Y" }})
+			</li>
+		    {%- endif -%}
         {%- endfor -%}
-    {%- endif -%}
+    	</ul>
+    	
+    	---<br><br>
 
-    Find here <a href="collection/selected-works/">A More Voluminous Selection of the Works</a> I have conceived over the years.    
+    	<ul>
+        {%- for post in site.posts -%}
+			{%- if post.categories contains 'information' -%}
+			<li>
+				<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+			</li>
+		    {%- endif -%}
+        {%- endfor -%}
+    	</ul>
+    {%- endif -%}
+ 
 </div>
