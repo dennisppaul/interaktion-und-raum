@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
@@ -169,4 +166,4 @@ for further information
 
 ---
 
-> You can contact me at _d.paul(at)hfk-bremen.de_
+You can contact me at `d.paul(at)hfk-bremen.de`
