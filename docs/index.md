@@ -2,7 +2,17 @@
 layout: home
 ---
 
-Interaktion und Raum @ [HfK Bremen](http://www.hfk-bremen.de/)
+Prof. Dennis P Paul: Interaktion + Raum @ [University of the Arts Bremen](http://www.hfk-bremen.de/)
+
+<br>
+<br>
+•••••••••••••••••••••••••••    
+•••••••••••••••••••••••••••    
+**CURRENTLY UNDER DEVELOPMENT**    
+•••••••••••••••••••••••••••    
+•••••••••••••••••••••••••••    
+<br>
+<br>
 
 ### Wintersemester 2022/23
 

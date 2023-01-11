@@ -8,9 +8,8 @@ categories: information
 # Grants and Scholarships
 
 ## Collection
-{{#iDisplay:http://dennisppaul.de/grantsandscholarships/public.php|100%|25%}}
 
-
+https://herrpaul.de/grantsandscholarships/public.php
 
 ## Others
 

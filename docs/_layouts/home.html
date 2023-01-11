@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<div class="home">
+    {%- if page.title -%}
+        <h1 class="page-heading">{{ page.title }}</h1>
+    {%- endif -%}
+
+    {{ content }}
+
+    <!--<p class="dash-separator">------------------------------------------------------------------------------------------------------------------------</p>-->
+
+    {%- if site.posts.size > 0 -%}
+        {%- for post in site.posts -%}
+			{%- if post.featured -%}
+				<div class="post-list-preview">
+					<h2 class="post-list-heading">
+						<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+						({{ post.date | date: "%Y" }})
+					</h2>
+					{%- if site.show_excerpts -%}
+						<a class="post-excerpt" href="{{ post.url | relative_url }}">
+							{{ post.excerpt | strip_newlines }}
+						</a>
+					{%- endif -%}
+					<br/>
+				</div>
+			{%- endif -%}
+        {%- endfor -%}
+    {%- endif -%}
+
+    Find here <a href="collection/selected-works/">A More Voluminous Selection of the Works</a> I have conceived over the years.    
+</div>

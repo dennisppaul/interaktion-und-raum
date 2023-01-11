@@ -8,7 +8,8 @@ categories: information
 # Aktuelle Ausschreibungen
 
 ## Aktuell
-{{#iDisplay:http://dennisppaul.de/awardsandcalls/public.php|100%|50%}}
+
+https://herrpaul.de/awardsandcalls/public.php
 
 -----
 
