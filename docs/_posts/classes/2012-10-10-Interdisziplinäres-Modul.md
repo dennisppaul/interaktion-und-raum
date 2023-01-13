@@ -3,6 +3,7 @@ layout: post
 title:  "Interdisziplinäres Modul"
 date:   2012-10-10 10:00:00 +0100
 categories: classes
+permalink: interdisziplinaeres-modul
 ---
 
 # Interdisziplinäres Modul

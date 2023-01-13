@@ -3,6 +3,7 @@ layout: post
 title:  "Temporäre Räume"
 date:   2017-03-21 10:00:00 +0100
 categories: classes
+permalink: temporare-raume
 ---
 
 # Temporäre Räume

@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Rauchwolken und Luftschlösser (LV)"
+title:  "Rauchwolken und Luftschlösser"
 date:   2017-03-21 10:00:00 +0100
 categories: classes
+permalink: rauchwolken-und-luftschloesser
 ---
 
 # Rauchwolken und Luftschlösser (LV)
