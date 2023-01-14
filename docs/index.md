@@ -30,7 +30,7 @@ Make an Appointment for an <a href="https://dm-hb.de/icdpp" style="background-co
 ### Sommersemester 2021
 
 - [Schlender & Flanieren: Praktizieren, Vermessen & Kartieren im Stadtraum](./schlender-flanieren-praktizieren-vermessen-kartieren-im-stadtraum)
-- [Mappe: Documenting Works](./Mappe:_Documenting_Works)
+- [Mappe: Documenting Works](./mappe-documenting-works)
 - [New Musical Instruments](./new-musical-instruments)
 - [Design of Printed Circuit Boards with KiCad](./design-of-printed-circuit-boards-with-kicad)
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Mappe: Documenting Works"
 date:   2021-11-17 10:00:00 +0100
 categories: classes
+permanlink: mappe-documenting-works
 ---
 
 # Mappe: Documenting Works
