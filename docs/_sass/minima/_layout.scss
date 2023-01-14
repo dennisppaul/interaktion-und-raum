@@ -56,13 +56,14 @@ h1, h2, h3, h4, h5 {
   line-height: 1;
   letter-spacing: 0px;
 
+    text-transform: uppercase;
+
   @include media-query($on-laptop) {
     @include relative-font-size(1);
   }
 }
 
 h1, h2, h3, h4, h5 {
-  font-weight: 400;
   margin-top: $base-line-height * $base-font-size;
   margin-bottom: $base-line-height * $base-font-size;
 }
