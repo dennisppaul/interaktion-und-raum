@@ -18,7 +18,7 @@ Make an Appointment for an <a href="https://dm-hb.de/icdpp" style="background-co
 
 ### Sommersemester 2022
 
-- [Polytope XIa: Klang- + Bildräume nach Xenakis](./polytope-xia-klang-bildra-ume-nach-xenakis)
+- [Polytope XIa: Klang- + Bildräume nach Xenakis](./polytope-xia)
 - [Gedankenexperimente](./gedankenexperimente)
 
 ### Winter Semester 2021/22

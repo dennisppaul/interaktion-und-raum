@@ -3,10 +3,10 @@ layout: post
 title:  "Polytope XIa: Klang- + Bildräume nach Xenakis"
 date:   2022-05-26 10:00:00 +0100
 categories: classes
+permalink: polytope-xia
 ---
 
 # Polytope XIa: Klang- + Bildräume nach Xenakis
-
 
 Der Komponist, Architekt und Multimedia-Künstler Iannis Xenakis (1922–2001) schuf mit seiner Werkreihe Polytopes spektakuläre interdisziplinäre Arbeiten. Anlässlich seines 100. Geburtstags planen wir unter dem Titel Polytope XIa ein neues Projekt im Geiste Xenakis’, mit aktuellen Technologien und Konzepten der Immersion und Interaktion. Das Projekt soll im Herbst im gerade neu entstehenden Speicher XIa realisiert werden.
 
