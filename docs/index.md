@@ -10,6 +10,18 @@ Make an Appointment for an <a href="https://dm-hb.de/icdpp" style="background-co
 
 ## Courses
 
+### Winter Semester 2023/24
+
+- Fictions, Speculations and Imaginaries ( in collaboration with Henrik Nieratscher )
+- Individual Projekt 2023
+- Master Project 2023
+
+### Sommersemester 2023
+
+- Mixed Signal Processing
+- Portable Electronic Music
+- Vermessene Körper
+
 ### Winter Semester 2022/23
 
 - [Interaktion + Raum](./interaktion-und-raum)
