@@ -173,6 +173,7 @@ a list of universities with programs in the same realm as ours:
 - [Push Conference](https://push-conference.com/)
 - [Transmediale](https://transmediale.de/)
 - [EMAF](https://www.emaf.de/)
+- [lab.30](https://www.lab30.de/)
 
 ## Exhibitions
 
