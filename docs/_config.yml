@@ -23,10 +23,8 @@ author: Dennis P Paul
 email: dennis.paul@hfk-bremen.de
 description: >- # this means to ignore newlines until "baseurl:"
   Prof. Dennis P Paul: Interaktion + Raum @ University of the Arts Bremen
-baseurl: "/interaktion-und-raum" # the subpath of your site, e.g. /blog
-url: "https://dennisppaul.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#baseurl: "" # the subpath of your site, e.g. /blog
-#url: "https://interaktion-und-raum.dennisppaul.de" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://interaktion-und-raum.dennisppaul.de" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dennisppaul
 github_username:  dennisppaul
 
