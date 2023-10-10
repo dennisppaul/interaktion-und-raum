@@ -12,9 +12,9 @@ Make an Appointment for an <a href="https://dm-hb.de/icdpp" style="background-co
 
 ### Winter Semester 2023/24
 
-- Fictions, Speculations and Imaginaries ( in collaboration with Henrik Nieratscher )
-- Individual Projekt 2023
-- Master Project 2023
+- [Fictions, Speculations and Imaginaries](./fictions-speculations-and-imaginaries) ( in collaboration with [Henrik Nieratscher](https://www.henriknieratschker.de) )
+- [Individual Projekt 2023](./individual-projekt-2023)
+- [Master Project 2023](./master-project-2023)
 
 ### Sommersemester 2023
 
