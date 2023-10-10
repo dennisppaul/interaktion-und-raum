@@ -9,7 +9,7 @@ categories: classes
 
 ## Abstract
 
-![interaktion+raum](https://blogs.digitalmedia-bremen.de/individualprojekt-interaktion-und-raum/wp-content/uploads/sites/142/2022/08/iur.png)
+![interaktion+raum](./assets/media/iur.png)
 
 Der Kurs ist eine *offene* Plattform zur gemeinsamen Ideenfindung, Recherche, Realisierung und Präsentation von individuellen Projektvorhaben die sich im Themenfeld *Interaktion + Raum* verorten. Der Kurs findet in enger Abstimmung und Kooperation mit dem parallel stattfinden Individualprojekt *Experimentelle Gestaltung + Neue Technologien* von Prof. Ralf Baecker statt ( z.B gemeinsame Workshops, Präsentationen und Vorträge ).
 
