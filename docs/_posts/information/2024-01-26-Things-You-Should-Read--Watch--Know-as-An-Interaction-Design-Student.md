@@ -1,13 +1,11 @@
 ---
 layout: post
 title:  "Things You Should Read/Watch/Know as An Interaction Design Student"
-date:   2022-10-24 10:00:00 +0100
+date:   2024-01-26 07:00:00 +0100
 categories: information
 ---
 
 # Things You Should Read/Watch/Know as An Interaction Design Student
-
-
 
 ## Books
 
@@ -143,8 +141,9 @@ Most of the Books listed here are available in our well-assorted library.
 
 ### World
 
+- [CW&T](https://cwandt.com)
+- [teenage engineering](https://teenage.engineering)
 - [Kimchi and Chips](https://www.kimchiandchips.com/)
-- [Copenhagen Institute of Interaction Design](http://ciid.dk) ( more institute than studio )
 
 ## Research Labs
 
@@ -154,6 +153,7 @@ Most of the Books listed here are available in our well-assorted library.
 - [Volkswagen Electronics Research Laboratory](https://vwiecc.com/)
 - [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html)
 - [Google Research](https://research.google/)
+- [Copenhagen Institute of Interaction Design](http://ciid.dk) ( more institute than studio or research lab )
 
 ## Universities
 
@@ -165,6 +165,7 @@ a list of universities with programs in the same realm as ours:
 - Bauhaus Universität Weimar / [Medienkunst/Mediengestaltung](http://www.uni-weimar.de/de/kunst-und-gestaltung/struktur/lehrgebiete-personen/medienkunstmediengestaltung/)
 - FH Potsdam / [Interfacedesign](https://www.fh-potsdam.de/studieren/design/studiengaenge/interfacedesign/)
 - [ECAL](http://www.ecal.ch)
+- [The School for Poetic Computation](https://sfpc.study)
 
 ## Festivals & Conferences
 
