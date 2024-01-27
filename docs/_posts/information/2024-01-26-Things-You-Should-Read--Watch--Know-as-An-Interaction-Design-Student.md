@@ -9,11 +9,13 @@ categories: information
 
 ## Books
 
+==TODO(unify books)==
+
 Most of the Books listed here are available in our well-assorted library.
 
-- 'Digital by Design: Crafting Technology for Products and Environments', Conny Freyer & Sebastien Noel & Eva Rucki, Thames & Hudson, 2010 
-- 'Design and the Elastic Mind', Paola Antonelli, Thames & Hudson, 2008
-- 'See Yourself Sensing: Redefining Human Perception', Madeline Schwartzman, Black Dog Pub Ltd, 2011
+- Conny Freyer & Sebastien Noel & Eva Rucki, Thames & Hudson: Digital by Design: Crafting Technology for Products and Environments, 2010 
+- Paola Antonelli: Design and the Elastic Mind, 2008 ( Thames & Hudson )
+- Madeline Schwartzman: See Yourself Sensing: Redefining Human Perception, 2011 ( Black Dog Pub Ltd )
 - 'Design Noir: The Secret Life of Electronic Objects', Anthony Dunne and Fiona Rab, Basel : Birkhäuser, 2001
 - 'Hertzian Tales: Electronic Products, Aesthetic Experience, and Critical Design', Anthony Dunne, Cambridge : MIT Press, 2008
 - 'Designing Everyday Computational Things', Johan Redström, Göteborg : Göteborg University, Department of Informatics, 2001
@@ -39,12 +41,12 @@ Most of the Books listed here are available in our well-assorted library.
 
 ### Humanities
 
-- Ian Bogost: Alien Phenomenology, or What It's Like to Be a Thing (Posthumanities)
-- Richard Sennett: The Craftsman, 2008
+- 'Alien Phenomenology, or What It's Like to Be a Thing (Posthumanities)', Ian Bogost
+- 'The Craftsman', Richard Sennett : Yale University Press, 2008
 
 ### Fiction / Non-Ficition / Science-Fiction
 
-- William Gibson: Neuromancer Triologie
+- William Gibson: Neuromancer Trilogie
 - Edwin Abbott Abbott: Flatland -- A Romance of Many Dimensions, 1884
 
 ## Magazines
@@ -64,13 +66,13 @@ Most of the Books listed here are available in our well-assorted library.
 - [Creative Applications](http://www.creativeapplications.net/) (Filip Visnjic)
 - [We Make Money Not Art](http://we-make-money-not-art.com) (Régine Debatty)
 - [Wired Magazine Blog](https://www.wired.com)
+- [Rhizome](http://rhizome.org)
+- [Frame Magazine Blog](http://www.frame-digital.com/)
+- [Designboom](http://www.designboom.com/)
+- [Co.DESIGN](http://www.fastcodesign.com)
 - [Prosthetic Knowledge](http://prostheticknowledge.tumblr.com) *last update 2020*
 - [Infosthetics](http://infosthetics.com) *went dark 2014* 
-- [Rhizome](http://rhizome.org)
-- [Co.DESIGN](http://www.fastcodesign.com)
-- [Frame Magazine Blog](http://www.frame-digital.com/)
-- [Plot Magazine Blog](http://www.plotmag.com/blog/)
-- [Designboom](http://www.designboom.com/)
+- [Plot Magazine Blog](http://www.plotmag.com/blog/) *last update 2021*
 - [Creators](https://creators.vice.com) *last update 2017*
 
 ## Movies
@@ -95,7 +97,7 @@ Most of the Books listed here are available in our well-assorted library.
 - District 9, Neill Blomkamp (2009)
 - Black Mirror, Charlie Brooker (2011)
 - Indie Game the Movie, Lisanne Pajot + James Swirsky (2012)
-<!--- Mark Lombardi - Kunst und Konspiration, Mareike Wegener (2012)-->
+- Mark Lombardi - Kunst und Konspiration, Mareike Wegener (2012)
 
 ## Studios
 
@@ -176,11 +178,33 @@ a list of universities with programs in the same realm as ours:
 - [EMAF](https://www.emaf.de/)
 - [lab.30](https://www.lab30.de/)
 
+## Tools + Applications
+
+- [Processing.org](https://processing.org/) ( incl [P5.js](https://p5js.org/) )
+- [Arduino.cc](https://www.arduino.cc/)
+- [openFrameworks](https://openframeworks.cc/)
+- [KiCad](https://www.kicad.org/)
+- [TouchDesigner](https://derivative.ca/)
+- [VVVV](https://vvvv.org/)
+- [Unity](https://unity.com/)
+- [Unreal Engine](https://www.unrealengine.com/)
+- [MAX](https://cycling74.com/products/max)
+- [Pure Data](https://puredata.info/) ( PD )
+- [Cables.gl](https://cables.gl/)
+- [Fusion360](https://www.autodesk.com/products/fusion-360)
+- [Rhino 3D](https://www.rhino3d.com/)
+- [FreeCAD](https://www.freecadweb.org/)
+- [Blender](https://www.blender.org/)
+- [Figma](https://www.figma.com/)
+
 ## Exhibitions
 
 - [MoMA: TALK TO ME](https://www.moma.org/interactives/exhibitions/2011/talktome/), 2011
 - [MoMA: Design and the Elastic Mind](https://www.moma.org/calendar/exhibitions/58), 2008
 
+---
+
+There is also a very similar document at [Things You Should Know as An Interaction Design / New Media Art Student](http://dm-hb.de/dmtyskaaidnmas).
 
 
 
