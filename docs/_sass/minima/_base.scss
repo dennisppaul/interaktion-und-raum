@@ -25,10 +25,11 @@ body {
      -moz-font-feature-settings: "kern" 1;
        -o-font-feature-settings: "kern" 1;
           font-feature-settings: "kern" 1;
-//   font-kerning: normal;
-  display: flex;
+  display: block;
   min-height: 100vh;
-  flex-direction: column;
+  margin: 2 * $base-line-height * $base-font-size;
+  text-align: left;
+  max-width: 640px;
 }
 
 
@@ -60,7 +61,7 @@ main {
 img {
   max-width: 100%;
   vertical-align: middle;
-  margin-bottom: $base-line-height * $base-font-size;
+//   margin-bottom: $base-line-height * $base-font-size;
 }
 
 
@@ -134,8 +135,9 @@ a {
  */
 blockquote {
   color: $brand-color;
-  border-left: 1px solid $grey-color;
-  padding-left: $spacing-unit * 0.5;
+  background-color: $grey-color-light;
+  border: 0px solid $grey-color;
+  padding: $base-line-height * $base-font-size;
   @include relative-font-size(1);
 //   letter-spacing: -1px;
 //   font-style: italic;
@@ -196,17 +198,19 @@ pre {
 .wrapper {
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
   max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-  margin-right: auto;
-  margin-left: auto;
-  padding-right: $spacing-unit * 4;
-  padding-left: $spacing-unit * 4;
+  margin-left: $base-line-height * $base-font-size;
+  margin-right: $base-line-height * $base-font-size;
+//   margin-right: auto;
+//   margin-left: auto;
+//   padding-right: $spacing-unit * 4;
+//   padding-left: $spacing-unit * 4;
   @extend %clearfix;
 
   @include media-query($on-laptop) {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
     max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-    padding-right: $spacing-unit * 2;
-    padding-left: $spacing-unit * 2;
+//     padding-right: $spacing-unit * 2;
+//     padding-left: $spacing-unit * 2;
   }
 }
 
