@@ -6,7 +6,7 @@ An accumulation of the activities of [Prof. Dennis P Paul](https://dennisppaul.d
 
 For recent activities follow the Digital Media Programm on Instagram at [@digitalmediabremen](https://www.instagram.com/digitalmediabremen/).
 
-Make an Appointment for an <a href="https://dm-hb.de/icdpp" style="background-color: #FF0000; color: #FFF; text-decoration: none;">Individual Critique</a>.
+Make an Appointment for an <a href="http://dm-hb.de/icdpp" style="background-color: #FF0000; color: #FFF; text-decoration: none;">Individual Critique</a>.
 
 ## Courses
 
