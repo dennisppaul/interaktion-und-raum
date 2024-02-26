@@ -7,19 +7,22 @@
 @font-face {
   font-family: 'JetBrainsMono';
   font-style: normal;
-  font-weight: 400;
+  font-weight: 100;
   src: local(''),
+//        url('./fonts/JetBrainsMono-ExtraLight.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./fonts/JetBrainsMono-Light.woff2') format('woff2'), /* Super Modern Browsers */
        url('./fonts/JetBrainsMono-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./fonts/JetBrainsMono-Bold.woff2') format('woff2'), /* Super Modern Browsers */
        url('./fonts/JetBrainsMono-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
 }
 
 $base-font-family: 'JetBrainsMono', monospace !default;
-$base-font-size:   22px !default;
+$base-font-size:   18px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 1.0 !default;
-$base-line-height: 1.36363636 !default;
+$base-line-height: 1.5 !default;
 
-$spacing-unit:     30px !default;
+$spacing-unit:     $base-font-size * $base-line-height !default;
 
 $text-color:       #000 !default;
 $background-color: #FFF !default;
