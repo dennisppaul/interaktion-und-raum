@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Things You Should Read/Watch/Know as An Interaction Design Student"
-date:   2024-01-26 07:00:00 +0100
+title:  "Where to Publish and Disseminate Works"
+date:   2024-04-01 10:00:00 +0100
 categories: wheretopublishanddisseminateworks
 ---
 
