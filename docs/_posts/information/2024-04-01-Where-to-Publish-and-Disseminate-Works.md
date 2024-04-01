@@ -7,6 +7,8 @@ categories: information
 
 # Where to Publish and Disseminate Works
 
+Also have a look at the places, institutions and occasions Digital Media students have published their works in the past: [https://blogs.digitalmedia-bremen.de/meriten/](https://blogs.digitalmedia-bremen.de/meriten/)
+
 ## Festivals & Conferences
 
 - [Ars Electronica Festival ](https://ars.electronica.art)
