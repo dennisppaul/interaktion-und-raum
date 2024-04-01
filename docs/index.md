@@ -10,6 +10,12 @@ Make an Appointment for an <a href="http://dm-hb.de/icdpp" style="background-col
 
 ## Courses
 
+### Sommersemester 2024
+
+- [Quirky Entrepreneurs, Uncommon Goods](./quirkyentrepreneursuncommongoods)
+- [Music > Data + Machines + Algorithms](./musicdatamachinesalgorithms)
+- [Elektronik-Spass with Monsieur Fisgus and Mister Paul](./elektronikspasswithmonsieurfisgusandmisterpaul) ( in collaboration with [Felix Fisgus](https://felixfisgus.de) )
+
 ### Winter Semester 2023/24
 
 - [Fictions, Speculations and Imaginaries](./fictions-speculations-and-imaginaries) ( in collaboration with [Henrik Nieratscher](https://www.henriknieratschker.de) )
@@ -174,6 +180,8 @@ Make an Appointment for an <a href="http://dm-hb.de/icdpp" style="background-col
 - [I Feel Data](./i-feel-data)
 
 ## Information Aggregation
+
+A more-or-less maintained collection of more-or-less relevant information. Tread lightly!
 
 {% if site.posts.size > 0 %}{% for post in site.posts %}{% if post.categories contains 'information' %}- [{{ post.title | escape }}]({{ post.url | relative_url }})
 {% endif %}{% endfor %}{% endif %}
