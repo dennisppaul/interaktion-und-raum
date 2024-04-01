@@ -2,7 +2,7 @@
 layout: post
 title:  "Where to Publish and Disseminate Works"
 date:   2024-04-01 10:00:00 +0100
-categories: wheretopublishanddisseminateworks
+categories: information
 ---
 
 # Where to Publish and Disseminate Works
