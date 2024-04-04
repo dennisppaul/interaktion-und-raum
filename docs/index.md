@@ -24,9 +24,9 @@ Make an Appointment for an <a href="http://dm-hb.de/icdpp" style="background-col
 
 ### Sommersemester 2023
 
-- Mixed Signal Processing
-- Portable Electronic Music
-- Vermessene Körper
+- [Mixed Signal Processing](./mixed-signal-processing)
+- [Portable Electronic Music](./portable-electronic-music)
+- [Vermessene Körper](./vermessene-koerper)
 
 ### Winter Semester 2022/23
 

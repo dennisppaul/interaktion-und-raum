@@ -7,7 +7,7 @@ categories: classes
 
 # Portable Electronic Music
 
-![Portable Electronic Music](./assets/media/PEM.png)
+![Portable Electronic Music](./assets/media/PEM.jpg)
 
 - Electroplankton
 - GameBoy

@@ -3,6 +3,7 @@ layout: post
 title:  "Vermessene Körper"
 date:   2023-04-01 10:00:00 +0100
 categories: classes
+permalink: vermessene-koerper
 ---
 
 # Vermessene Körper
