@@ -7,9 +7,9 @@ categories: information
 
 # Things You Should Read/Watch/Know as An Interaction Design Student
 
-## Books
+DISCLAIMER: this collection is only sporadically updated therefore some links or references are a bit dated or even dead.
 
-==TODO(unify books)==
+## Books
 
 Most of the Books listed here are available in our well-assorted library.
 
@@ -53,8 +53,8 @@ Most of the Books listed here are available in our well-assorted library.
 
 - [Neural](http://neural.it)  (Alessandro Ludovico)
 - [HOLO](http://holo-magazine.com) (Alexander Scholz)
-- [Wired](https://www.wired.com/magazine/)
-- [form](http://www.form.de/)
+- [Wired](https://www.wired.com/magazine)
+- [form](http://www.form.de)
 - [Make Magazine](http://makezine.com)
 - [Page](http://page-online.de)
 - [Frame](https://www.frameweb.com)
@@ -63,16 +63,16 @@ Most of the Books listed here are available in our well-assorted library.
 
 ## Blogs
 
-- [Creative Applications](http://www.creativeapplications.net/) (Filip Visnjic)
+- [Creative Applications](http://www.creativeapplications.net) (Filip Visnjic)
 - [We Make Money Not Art](http://we-make-money-not-art.com) (Régine Debatty)
 - [Wired Magazine Blog](https://www.wired.com)
 - [Rhizome](http://rhizome.org)
-- [Frame Magazine Blog](http://www.frame-digital.com/)
-- [Designboom](http://www.designboom.com/)
+- [Frame Magazine Blog](http://www.frame-digital.com)
+- [Designboom](http://www.designboom.com)
 - [Co.DESIGN](http://www.fastcodesign.com)
 - [Prosthetic Knowledge](http://prostheticknowledge.tumblr.com) *last update 2020*
 - [Infosthetics](http://infosthetics.com) *went dark 2014* 
-- [Plot Magazine Blog](http://www.plotmag.com/blog/) *last update 2021*
+- [Plot Magazine Blog](http://www.plotmag.com/blog) *last update 2021*
 - [Creators](https://creators.vice.com) *last update 2017*
 
 ## Movies
@@ -103,21 +103,23 @@ Most of the Books listed here are available in our well-assorted library.
 
 ### Berlin
 
-- [TheGreenEyl](http://www.thegreeneyl.com/)
+- [TheGreenEyl](http://www.thegreeneyl.com)
 - [Studio NAND](http://www.nand.io)
 - [Feld](http://www.feld.is)
 - [onformative](http://www.onformative.com)
 - [SYNTOP](http://syntop.io)
 - [Art+Com](http://www.artcom.de)
 - [WHITEvoid](http://www.whitevoid.com)
-- [schnellebuntebilder](http://www.schnellebuntebilder.de)
 - [dan pearlman](http://www.danpearlman.com)
 - [archimedes](http://www.archimedes-exhibitions.de)
 - [Artificial Rome](http://artificialrome.com)
 - [Tamschick media+space](http://www.tamschick.com)
 - [Quadrature](http://quadrature.co)
-- [pch-innovations](https://pch-innovations.com/)
+- [pch-innovations](https://pch-innovations.com)
 - ~~~[IxDS](http://www.ixds.de)~~~ now part of [pwc](https://www.pwc.de/sustainable-innovation)
+- [schnellebuntebilder](http://www.schnellebuntebilder.de)
+- [kling klang klong](https://www.klingklangklong.com)
+- [Numen / For Use](https://numen.eu)
 
 ### Germany
 
@@ -125,17 +127,13 @@ Most of the Books listed here are available in our well-assorted library.
 - [Mutabor](https://www.mutabor.de)
 - [IDEO](https://www.ideo.com/eu)
 - [Jangled Nerves](http://www.janglednerves.com)
-<!--
-- [Projekttriangle](http://www.projekttriangle.com)
-- [Atelier Markgraph](http://www.markgraph.de)
--->
 
 ### UK
 
 - [Field](http://www.field.io)
 - [United Visual Artists](http://uva.co.uk)
 - [Troika](http://troika.uk.com)
-- [RANDOM INTERNATIONAL](https://www.random-international.com/)
+- [RANDOM INTERNATIONAL](https://www.random-international.com)
 - [Variable](http://variable.io)
 - [Cohen & Van Balen](https://www.cohenvanbalen.com)
 - [Superflux](https://superflux.in)
@@ -145,16 +143,16 @@ Most of the Books listed here are available in our well-assorted library.
 
 - [CW&T](https://cwandt.com)
 - [teenage engineering](https://teenage.engineering)
-- [Kimchi and Chips](https://www.kimchiandchips.com/)
+- [Kimchi and Chips](https://www.kimchiandchips.com)
 
 ## Research Labs
 
-- [Disney Research](https://www.disneyresearch.com/)
-- [Microsoft Research](https://www.microsoft.com/en-us/research/)
-- [Sony Research](https://www.sony.com/en/SonyInfo/research/)
-- [Volkswagen Electronics Research Laboratory](https://vwiecc.com/)
+- [Disney Research](https://www.disneyresearch.com)
+- [Microsoft Research](https://www.microsoft.com/en-us/research)
+- [Sony Research](https://www.sony.com/en/SonyInfo/research)
+- [Volkswagen Electronics Research Laboratory](https://vwiecc.com)
 - [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html)
-- [Google Research](https://research.google/)
+- [Google Research](https://research.google)
 - [Copenhagen Institute of Interaction Design](http://ciid.dk) ( more institute than studio or research lab )
 
 ## Universities
@@ -163,43 +161,43 @@ a list of universities with programs in the same realm as ours:
 
 - UdK Berlin / [Digitale Klasse](http://digital.udk-berlin.de)
 - HfG Offenbach / [Elektronische Medien](http://www.hfg-offenbach.de/de/pages/elektronische-medien#ueber)
-- KHM Köln / [Experimentelle Informatik](https://www.khm.de/exMedia_experimentelle_informatik/device.desktop/lang.de/)
-- Bauhaus Universität Weimar / [Medienkunst/Mediengestaltung](http://www.uni-weimar.de/de/kunst-und-gestaltung/struktur/lehrgebiete-personen/medienkunstmediengestaltung/)
-- FH Potsdam / [Interfacedesign](https://www.fh-potsdam.de/studieren/design/studiengaenge/interfacedesign/)
+- KHM Köln / [Experimentelle Informatik](https://www.khm.de/exMedia_experimentelle_informatik/device.desktop/lang.de)
+- Bauhaus Universität Weimar / [Medienkunst/Mediengestaltung](http://www.uni-weimar.de/de/kunst-und-gestaltung/struktur/lehrgebiete-personen/medienkunstmediengestaltung)
+- FH Potsdam / [Interfacedesign](https://www.fh-potsdam.de/studieren/design/studiengaenge/interfacedesign)
 - [ECAL](http://www.ecal.ch)
 - [The School for Poetic Computation](https://sfpc.study)
 
 ## Festivals & Conferences
 
 - [Ars Electronica Festival ](https://ars.electronica.art)
-- [KIKK Festival](https://www.kikk.be/)
-- [Push Conference](https://push-conference.com/)
-- [Transmediale](https://transmediale.de/)
-- [EMAF](https://www.emaf.de/)
-- [lab.30](https://www.lab30.de/)
+- [KIKK Festival](https://www.kikk.be)
+- [Push Conference](https://push-conference.com)
+- [Transmediale](https://transmediale.de)
+- [EMAF](https://www.emaf.de)
+- [lab.30](https://www.lab30.de)
 
 ## Tools + Applications
 
-- [Processing.org](https://processing.org/) ( incl [P5.js](https://p5js.org/) )
-- [Arduino.cc](https://www.arduino.cc/)
-- [openFrameworks](https://openframeworks.cc/)
-- [KiCad](https://www.kicad.org/)
-- [TouchDesigner](https://derivative.ca/)
-- [VVVV](https://vvvv.org/)
-- [Unity](https://unity.com/)
-- [Unreal Engine](https://www.unrealengine.com/)
+- [Processing.org](https://processing.org) ( incl [P5.js](https://p5js.org) )
+- [Arduino.cc](https://www.arduino.cc)
+- [openFrameworks](https://openframeworks.cc)
+- [KiCad](https://www.kicad.org)
+- [TouchDesigner](https://derivative.ca)
+- [VVVV](https://vvvv.org)
+- [Unity](https://unity.com)
+- [Unreal Engine](https://www.unrealengine.com)
 - [MAX](https://cycling74.com/products/max)
-- [Pure Data](https://puredata.info/) ( PD )
-- [Cables.gl](https://cables.gl/)
+- [Pure Data](https://puredata.info) ( PD )
+- [Cables.gl](https://cables.gl)
 - [Fusion360](https://www.autodesk.com/products/fusion-360)
-- [Rhino 3D](https://www.rhino3d.com/)
-- [FreeCAD](https://www.freecadweb.org/)
-- [Blender](https://www.blender.org/)
-- [Figma](https://www.figma.com/)
+- [Rhino 3D](https://www.rhino3d.com)
+- [FreeCAD](https://www.freecadweb.org)
+- [Blender](https://www.blender.org)
+- [Figma](https://www.figma.com)
 
 ## Exhibitions
 
-- [MoMA: TALK TO ME](https://www.moma.org/interactives/exhibitions/2011/talktome/), 2011
+- [MoMA: TALK TO ME](https://www.moma.org/interactives/exhibitions/2011/talktome), 2011
 - [MoMA: Design and the Elastic Mind](https://www.moma.org/calendar/exhibitions/58), 2008
 
 ---
