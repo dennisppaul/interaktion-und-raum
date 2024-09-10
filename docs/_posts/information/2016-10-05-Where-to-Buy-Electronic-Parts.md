@@ -9,6 +9,7 @@ categories: information
 
 ## Retail
 
+- [funduino](https://funduino.de)
 - [exp-tech.de ](http://exp-tech.de )
 - [digikey.de](http://digikey.de) -- a very professional and expensive ordering serivce. they have quite a selection of parts.
 - [watterott.com](http://watterott.com)

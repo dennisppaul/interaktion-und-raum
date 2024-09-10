@@ -10,6 +10,12 @@ Make an Appointment for an <a href="http://dm-hb.de/icdpp" style="background-col
 
 ## Courses
 
+### Winter Semester 2024/25
+
+- [Conversation Pieces](./conversation-pieces)
+- [Master Project 2024](./master-project-2024)
+- [Modular Monday](./modular-monday)
+
 ### Sommersemester 2024
 
 - [Quirky Entrepreneurs, Uncommon Goods](./quirkyentrepreneursuncommongoods)
