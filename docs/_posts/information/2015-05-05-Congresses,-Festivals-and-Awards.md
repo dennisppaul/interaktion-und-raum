@@ -17,6 +17,7 @@ categories: information
 * [http://www.kulturpreise.de/web/index.php?cName# design_gestaltung Handbuch der Kulturpreise: Design/Gestaltung ]
 
 ## Awards
+
 * [http://www.inputoutput.de/ Output Award]. Annual, applications towards the end of the year.
 * [http://www.adc.del ADC Nachwuchswettbewerb]. Annual.
 * [http://ifdesign.de/awards_concept_index_d iF concept award]. Annual, applications from june on.
@@ -33,6 +34,7 @@ categories: information
 * [http://www.bf-preis.de/start/index.php Wilhelm Braun-Feldweg-Förderpreis für designkritische Texte]
 
 ## Festivals
+
 * [http://j-mediaarts.jp Japan Media Arts Festival] (annual)
 * [http://mappingfestival.ch/ Mapping Festival] in Geneva ( annual )
 * [http://www.isea-web.org/ ISEA (Inter-Society for the Electronic Arts)]
@@ -50,6 +52,7 @@ categories: information
 <!-- * [http://www.medienfestival.net/ Internationales Medienfestival Villingen-Schwenningen] -->
 
 ## Conferences
+
 * [http://chi2013.acm.org CHI2013]
 * [http://ixda.org/conference IxDA]
 * [http://www.isea2013.org/ ISEA2013]

@@ -17,6 +17,8 @@ Also have a look at the places, institutions and occasions Digital Media student
 - [Transmediale](https://transmediale.de/)
 - [EMAF](https://www.emaf.de/)
 - [lab.30](https://www.lab30.de/)
+- [Fiber Festival](https://fiberfestival.nl/)
+- [Transmediale](http://www.transmediale.de)
 
 ## Blogs
 
