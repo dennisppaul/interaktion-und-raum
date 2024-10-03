@@ -19,6 +19,7 @@ Also have a look at the places, institutions and occasions Digital Media student
 - [lab.30](https://www.lab30.de/)
 - [Fiber Festival](https://fiberfestival.nl/)
 - [Transmediale](http://www.transmediale.de)
+- [CYNETART](https://cynetart.org/)
 
 ## Blogs
 
