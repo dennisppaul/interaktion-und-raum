@@ -7,4 +7,6 @@ categories: classes
 
 # Modular Monday
 
+Performing Artifacts + Electronics + Sounds + Music
+
 see [blog](https://blogs.digitalmedia-bremen.de/modularmonday/) for additional information.
