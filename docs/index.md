@@ -8,6 +8,10 @@ For recent activities follow the Digital Media Programm on Instagram at [@digita
 
 Make an Appointment for an <a href="http://dm-hb.de/icdpp" style="background-color: #FF0000; color: #FFF; text-decoration: none;">Individual Critique</a>.
 
+Dennis P Paul has recorded a lecture which shows some of his works and gives a rough idea where he is coming from and what he has done as an interaction designer and new media artist: http://dm-hb.de/dpp-iur ( the lecture is available only to HfK and UNI students and requires an HfK login ).
+
+Follow Dennis P Paul on [dennisppaul@github](https://github.com/dennisppaul).
+
 ## Courses
 
 ### Winter Semester 2024/25
