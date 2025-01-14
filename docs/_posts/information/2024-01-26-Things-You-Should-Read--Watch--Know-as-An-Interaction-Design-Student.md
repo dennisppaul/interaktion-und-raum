@@ -7,7 +7,7 @@ categories: information
 
 # Things You Should Read/Watch/Know as An Interaction Design Student
 
-DISCLAIMER: this collection is only sporadically updated therefore some links or references are a bit dated or even dead.
+DISCLAIMER: this collection is only sporadically updated and therefore brutally outdated. some links or references may even be dead …
 
 ## Books
 
@@ -30,11 +30,16 @@ Most of the Books listed here are available in our well-assorted library.
 - [Bill Moggridge: Designing Interactions](https://www.ideo.com/post/designing-interactions), 2007, Cambridge : MIT Press
 - Donald Norman: The Design of Everyday Things, 2001, London : MIT Press
 
-### Skill-Based
+### Procedural and Generative Design
 
-- 'Processing: a programming handbook for visual designers and artists', Casey Reas and Ben Fry, Cambridge : MIT Press, 2007
+- Casey Reas + Ben Fry -- Processing: A Programming Handbook for Visual Designers and Artists (2007)
+- Daniel Shiffman -- Learning Processing (2009)
+- Daniel Shiffman -- The Nature of Code (2013)
+- Hartmut Bohnacker + Benedikt Groß + Julia Laub: Generative Design: Visualize, Program, and Create with Processing (2012)
 - 'Form+Code in Design, Art, and Architecture', Casey Reas & Chandler McWilliams 
-- 'Generative Gestaltung: Entwerfen, Programmieren, Visualisieren', Hartmut Bohnacker & Benedikt Groß & Julia Laub & Claudius Lazzeroni, Schmidt, 2009
+
+### Physical Computing
+
 - 'Getting started with Arduino: the Open Source electronics prototyping platform', Massimo Banz, Beijing : O‘Reilly, 2009
 - 'Physical computing: sensing and controlling the physical world with computers', Dan O. Sullivan, Boston : Thomson, 2007
 - 'Making Things Talk: Practical Methods for Connecting Physical Objects', Tom Igoe, Beijing : O‘Reilly, 2007
