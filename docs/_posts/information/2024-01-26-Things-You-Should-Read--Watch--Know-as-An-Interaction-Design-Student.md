@@ -115,14 +115,14 @@ Most of the Books listed here are available in our well-assorted library.
 - [SYNTOP](http://syntop.io)
 - [Art+Com](http://www.artcom.de)
 - [WHITEvoid](http://www.whitevoid.com)
+- [Quadrature](http://quadrature.co)
+- [schnellebuntebilder](http://www.schnellebuntebilder.de)
 - [dan pearlman](http://www.danpearlman.com)
 - [archimedes](http://www.archimedes-exhibitions.de)
 - [Artificial Rome](http://artificialrome.com)
 - [Tamschick media+space](http://www.tamschick.com)
-- [Quadrature](http://quadrature.co)
 - [pch-innovations](https://pch-innovations.com)
-- ~~~[IxDS](http://www.ixds.de)~~~ now part of [pwc](https://www.pwc.de/sustainable-innovation)
-- [schnellebuntebilder](http://www.schnellebuntebilder.de)
+- ~~[IxDS](http://www.ixds.de)~~ now part of [pwc](https://www.pwc.de/sustainable-innovation)
 - [kling klang klong](https://www.klingklangklong.com)
 - [Numen / For Use](https://numen.eu)
 
@@ -140,9 +140,10 @@ Most of the Books listed here are available in our well-assorted library.
 - [Troika](http://troika.uk.com)
 - [RANDOM INTERNATIONAL](https://www.random-international.com)
 - [Variable](http://variable.io)
+- [Hirsch & Mann](https://www.hirschandmann.com)
 - [Cohen & Van Balen](https://www.cohenvanbalen.com)
 - [Superflux](https://superflux.in)
-- ~~~[BERG](http://berglondon.com)~~~ discontinued
+- ~~[BERG](http://berglondon.com)~~ *discontinued* 
 
 ### World
 
@@ -174,12 +175,14 @@ a list of universities with programs in the same realm as ours:
 
 ## Festivals & Conferences
 
-- [Ars Electronica Festival ](https://ars.electronica.art)
+- [Ars Electronica Festival](https://ars.electronica.art)
 - [KIKK Festival](https://www.kikk.be)
 - [Push Conference](https://push-conference.com)
 - [Transmediale](https://transmediale.de)
 - [EMAF](https://www.emaf.de)
 - [lab.30](https://www.lab30.de)
+- [Vector Hack Festival](https://vectorhackfestival.com)
+- [FIBER Festival](https://www.fiberfestival.nl)
 
 ## Tools + Applications
 
